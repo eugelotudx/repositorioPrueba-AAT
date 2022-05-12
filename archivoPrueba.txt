@@ -7,3 +7,5 @@ Hola, quiero ver qué lineas cambiaron
 
 Esta es la segunda tarea con el repositorio
 Tengo ganas de comer mousse
+
+Líneas por el momento exclusivas para la nueva rama
